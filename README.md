@@ -1,6 +1,11 @@
 ## 🐱 About me
 
-<p align="center"> 안녕하세요! </p>
+<p align="center"> 
+<span>안녕하세요.</span></br>
+<span>제 이름은 남보람이고, Full-Stack 개발자로 활동하고 있습니다.</span></br>
+<span>현재 AI기반 백엔드 부트캠프와 AWS 부트캠프에 참여하며</span></br>
+<span>Infra 환경 운영까지 할 수 있도록 역량을 키우고자 열심히 배우고 있습니다.</span></br>
+</p>
 
 ## 💫 Stack
 
@@ -37,14 +42,15 @@
 
 ## 🛠️ Tools
 
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Slack-FF6363?style=flat-square&logo=Slack&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>&nbsp
-    
-</p>
+<ul>
+    <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>&nbsp
+        <img src="https://img.shields.io/badge/Slack-FF6363?style=flat-square&logo=Slack&logoColor=white"/>&nbsp
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>&nbsp
+    </p>
+</ul>
 
 ## 💼 Career
 
