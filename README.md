@@ -21,6 +21,8 @@
 <!-- 내 기술 블로그 작성할 것의 상위 n개가 나오는 것을 작성해보자! -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Claire-Nam&show_icons=true&theme=tokyonight" width=45% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claire-Nam&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+         width=40% /> 
 </div>
 
 <ul>
