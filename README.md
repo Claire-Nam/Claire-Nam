@@ -17,6 +17,11 @@
 </ul>
 
 ## 💫 Stack
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjibyeongho&show_icons=true&theme=tokyonight) -->
+<!-- 내 기술 블로그 작성할 것의 상위 n개가 나오는 것을 작성해보자! -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Claire-Nam&show_icons=true&theme=tokyonight" width=45% />
+</div>
 
 <ul>
     <p>
