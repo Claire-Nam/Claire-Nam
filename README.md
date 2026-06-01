@@ -72,6 +72,9 @@
 
 <p>
     <ul style="list-style: none; padding: 0;">
+        <li>26.01 - Present <span style="font-weight: bold;">Brangista Solution</span>
+            R&D팀 백엔드 개발자
+        </li>
         <li>25.01 - 26.01 <span style="font-weight: bold;">마플 코퍼레이션</span>
             R&D팀 풀스택 개발자
         </li>
